@@ -1,6 +1,6 @@
-# ✈️ Web Đặt Vé Máy Bay - Nhóm 10
+# Web Đặt Vé Máy Bay - Nhóm 10
 
-## 👥 Thành viên nhóm
+## Thành viên nhóm
 - **22010401** - Duy  
 - **22010405** - Dat
 - **22010037** - kien
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Mục tiêu dự án
+## Mục tiêu dự án
 Xây dựng **website đặt vé máy bay trực tuyến** bằng **Laravel Framework**, chạy trên **XAMPP**.  
 Hệ thống cho phép người dùng:
 - Tìm kiếm chuyến bay theo ngày, điểm đi, điểm đến.  
@@ -18,7 +18,7 @@ Hệ thống cho phép người dùng:
 
 ---
 
-## ⚙️ Công nghệ sử dụng
+## Công nghệ sử dụng
 | Thành phần | Công nghệ |
 |-------------|------------|
 | **Ngôn ngữ lập trình** | PHP (Laravel Framework) |
@@ -29,7 +29,7 @@ Hệ thống cho phép người dùng:
 
 ---
 
-## 🧱 Cấu trúc dự án (Laravel)
+## Cấu trúc dự án (Laravel)
 flight_booking/
 ├── app/ # Controllers, Models, Logic xử lý
 ├── bootstrap/ # File khởi tạo ứng dụng
@@ -47,8 +47,8 @@ Sao chép mã
 
 ---
 
-## ⚡ Cài đặt và chạy dự án trên XAMPP
-### 1️⃣ Cài đặt môi trường
+## Cài đặt và chạy dự án trên XAMPP
+### 1️.Cài đặt môi trường
 - Cài **XAMPP** (PHP ≥ 8.1)  
 - Cài **Composer**  
 - Clone project về:
