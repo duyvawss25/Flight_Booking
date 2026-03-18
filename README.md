@@ -2,9 +2,6 @@
 
 ## Thành viên nhóm
 - **22010401** - Duy  
-- **22010405** - Dat
-- **22010037** - kien
-- _(Thêm các thành viên khác nếu có)_
 
 ---
 
@@ -42,8 +39,6 @@ flight_booking/
 ├── tests/ # Unit test
 └── composer.json # Quản lý gói PHP
 
-yaml
-Sao chép mã
 
 ---
 
@@ -52,6 +47,4 @@ Sao chép mã
 - Cài **XAMPP** (PHP ≥ 8.1)  
 - Cài **Composer**  
 - Clone project về:
-  ```bash
-  git clone https://github.com/duywawss25/Web_nang_cao_nhom10.git
-  cd Web_nang_cao_nhom10
+
